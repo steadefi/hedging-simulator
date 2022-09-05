@@ -1,6 +1,9 @@
 Steadefi Hedging Performance Simulator
 ==============
 
+![Screenshot](https://i.ibb.co/hCR6sy9/screencapture-localhost-3000-2022-09-05-16-33-54.png)
+
+
 ### Getting Started
 ```
 npm install
